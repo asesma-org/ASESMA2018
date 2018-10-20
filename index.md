@@ -1,3 +1,9 @@
-# Title here
+---
+title: ASESMA 2018
+---
 
-Some text below.
+# Links for tutorial files
+
+## Monday: Shell, crystal structure visualization, xmgrace
+
+- Shell: [http://swcarpentry.github.io/shell-novice/](http://swcarpentry.github.io/shell-novice/)
