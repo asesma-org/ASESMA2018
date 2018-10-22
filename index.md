@@ -1,5 +1,5 @@
 ---
-title: ASESMA 2018
+title: ASESMA 2018 tutorials
 ---
 
 # Links for tutorial files
