@@ -10,6 +10,6 @@ title: ASESMA 2018 tutorials
   - Files for the shell lesson are here: [http://swcarpentry.github.io/shell-novice/data/data-shell.zip](http://swcarpentry.github.io/shell-novice/data/data-shell.zip)
 - xcrysden, xmgrace: [https://github.com/asesma-org/ethiopia2018/raw/master/asesma-tutorial-data.tar](https://github.com/asesma-org/ethiopia2018/raw/master/asesma-tutorial-data.tar)
 
-## Tuesday
+## Tuesday: Quantum ESPRESSO
 
 - Quantum ESPRESSO tutorial: [https://github.com/asesma-org/ethiopia2018/raw/master/Day2.tar](https://github.com/asesma-org/ethiopia2018/raw/master/Day2.tar)
