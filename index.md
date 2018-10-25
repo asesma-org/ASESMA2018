@@ -17,3 +17,7 @@ title: ASESMA 2018 tutorials
 ## Wednesday: Quantum ESPRESSO, band structures
 
 - Band structure tutorial: [https://github.com/asesma-org/ethiopia2018/raw/master/wednesday.tar](https://github.com/asesma-org/ethiopia2018/raw/master/wednesday.tar)
+
+## Thursday: Quantum ESPRESSO, metals + relaxation
+
+- Metals + relaxations: [https://github.com/asesma-org/ethiopia2018/raw/master/ASESMA2018_Day4.tar](https://github.com/asesma-org/ethiopia2018/raw/master/ASESMA2018_Day4.tar)
