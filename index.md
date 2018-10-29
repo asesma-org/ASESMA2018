@@ -4,6 +4,10 @@ title: ASESMA 2018 tutorials
 
 # Slides
 
+- [Density functional theory II (Richard Martin)](https://github.com/asesma-org/ethiopia2018/raw/master/slides/Martin-DFT.pdf)
+- [Pseudopotentials - Theory and applications (Richard Martin)](https://github.com/asesma-org/ethiopia2018/raw/master/slides/Martin-Pseudopotentials.pdf)
+- [Advanced exchange and correlation functionals (Nicola Seriani)](https://github.com/asesma-org/ethiopia2018/raw/master/slides/Seriani-functionals.pdf)
+
 # Tutorials
 
 ### Monday: Shell, crystal structure visualization, xmgrace
