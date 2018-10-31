@@ -6,6 +6,12 @@ title: ASESMA 2018 tutorials
 
 - [Bravais lattices & Crystal structures (Shobhana Narasimhan)](https://github.com/asesma-org/ethiopia2018/raw/master/slides/ssp_review_addis_2018.pdf)
 - [How to solve the Kohn-Sham equations (Shobhana Narasimhan)](https://github.com/asesma-org/ethiopia2018/raw/master/slides/bands_scf_addis.pdf)
+- Worksheets:
+  - [2D Bravais lattices](https://github.com/asesma-org/ethiopia2018/raw/master/slides/worksheet1_2DBravLats.pdf)
+  - [Crystal structures](https://github.com/asesma-org/ethiopia2018/raw/master/slides/worksheet2_Xtalstructure.pdf)
+  - [Miller indices](https://github.com/asesma-org/ethiopia2018/raw/master/slides/worksheet3_millerindices.pdf)
+  - [Bands](https://github.com/asesma-org/ethiopia2018/raw/master/slides/worksheet4_bands.pdf)
+  - [fcc(100) surface slab](https://github.com/asesma-org/ethiopia2018/raw/master/slides/worksheet5_surfaceslab.pdf)
 - [Density functional theory II (Richard Martin)](https://github.com/asesma-org/ethiopia2018/raw/master/slides/Martin-DFT.pdf)
 - [Pseudopotentials - Theory and applications (Richard Martin)](https://github.com/asesma-org/ethiopia2018/raw/master/slides/Martin-Pseudopotentials.pdf)
 - [Advanced exchange and correlation functionals (Nicola Seriani)](https://github.com/asesma-org/ethiopia2018/raw/master/slides/Seriani-functionals.pdf)
