@@ -4,6 +4,8 @@ title: ASESMA 2018 tutorials
 
 # Slides
 
+- [Bravais lattices & Crystal structures (Shobhana Narasimhan)](https://github.com/asesma-org/ethiopia2018/raw/master/slides/ssp_review_addis_2018.pdf)
+- [How to solve the Kohn-Sham equations (Shobhana Narasimhan)](https://github.com/asesma-org/ethiopia2018/raw/master/slides/bands_scf_addis.pdf)
 - [Density functional theory II (Richard Martin)](https://github.com/asesma-org/ethiopia2018/raw/master/slides/Martin-DFT.pdf)
 - [Pseudopotentials - Theory and applications (Richard Martin)](https://github.com/asesma-org/ethiopia2018/raw/master/slides/Martin-Pseudopotentials.pdf)
 - [Advanced exchange and correlation functionals (Nicola Seriani)](https://github.com/asesma-org/ethiopia2018/raw/master/slides/Seriani-functionals.pdf)
