@@ -35,3 +35,7 @@ title: ASESMA 2018 tutorials
 ### Thursday: Quantum ESPRESSO, metals + relaxation
 
 - Metals + relaxations: [https://github.com/asesma-org/ethiopia2018/raw/master/ASESMA2018_Day4.tar](https://github.com/asesma-org/ethiopia2018/raw/master/ASESMA2018_Day4.tar)
+
+### Week 2, Monday: LAMMPS
+
+- LAMMPS: [https://github.com/asesma-org/ethiopia2018/raw/master/lammps-tutorial.tar](https://github.com/asesma-org/ethiopia2018/raw/master/lammps-tutorial.tar)
