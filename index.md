@@ -15,6 +15,7 @@ title: ASESMA 2018 tutorials
 - [Density functional theory II (Richard Martin)](https://github.com/asesma-org/ethiopia2018/raw/master/slides/Martin-DFT.pdf)
 - [Pseudopotentials - Theory and applications (Richard Martin)](https://github.com/asesma-org/ethiopia2018/raw/master/slides/Martin-Pseudopotentials.pdf)
 - [Advanced exchange and correlation functionals (Nicola Seriani)](https://github.com/asesma-org/ethiopia2018/raw/master/slides/Seriani-functionals.pdf)
+- [Time-dependent density functional theory (Mark Casida)](https://github.com/asesma-org/ethiopia2018/raw/master/slides/Casida-TDDFT.pdf)
 - [Many-body theory (Lucia Reining, Matteo Gatti)](https://github.com/asesma-org/ethiopia2018/raw/master/slides/addis-complete.pdf)
 
 # Tutorials
