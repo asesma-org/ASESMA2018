@@ -17,6 +17,7 @@ title: ASESMA 2018 tutorials
 - [Advanced exchange and correlation functionals (Nicola Seriani)](https://github.com/asesma-org/ethiopia2018/raw/master/slides/Seriani-functionals.pdf)
 - [Time-dependent density functional theory (Mark Casida)](https://github.com/asesma-org/ethiopia2018/raw/master/slides/Casida-TDDFT.pdf)
 - [Many-body theory (Lucia Reining, Matteo Gatti)](https://github.com/asesma-org/ethiopia2018/raw/master/slides/addis-complete.pdf)
+- [Introduction to DFT+U (Cedric Weber)](https://github.com/asesma-org/ethiopia2018/raw/master/slides/WeberCedric_DFT_U_lecture.pdf)
 
 # Tutorials
 
