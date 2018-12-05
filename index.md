@@ -19,6 +19,9 @@ title: ASESMA 2018 tutorials
 - [Many-body theory (Lucia Reining, Matteo Gatti)](https://github.com/asesma-org/ethiopia2018/raw/master/slides/addis-complete.pdf)
 - [Introduction to DFT+U (Cedric Weber)](https://github.com/asesma-org/ethiopia2018/raw/master/slides/WeberCedric_DFT_U_lecture.pdf)
 
+## Project reports
+- [Excitonic Effects in the Calculated Spectra of Molecular Aggregates by Time-Dependent Density-Functional Theory](https://github.com/asesma-org/ethiopia2018/raw/master/slides/TDDFT_report_group_project.pdf)
+
 # Tutorials
 
 ### Monday: Shell, crystal structure visualization, xmgrace
